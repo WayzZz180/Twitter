@@ -1,0 +1,35 @@
+@import _mixin
+
+$twColor: #00acee #1a8dc2 #206f98 #205370 #16202c #243447 #141f27 #000000 #fcfcfc
+
+@for $i from 1 through 9
+    @include bgc(bg-tw#{$i}, nth($twColor, $i))
+    @include color(text-tw#{$i}, nth($twColor, $i))
+
+@include hnpx(25)
+@include wnpx(25)
+@include hnpx(30)
+@include wnpx(30)
+@include hnpx(40)
+@include wnpx(40)
+@include hnpx(45)
+@include wnpx(45)
+@include hnpx(50)
+@include wnpx(50)
+@include hnpx(100)
+@include wnpx(100)
+@include hnpx(200)
+@include hnpx(300)
+@include wnpx(400)
+@include wnpx(500)
+body
+    background-color: nth($twColor, 8)
+
+// ::placeholder
+//     color: white
+//     opacity: 1
+
+aside
+    nav
+        .nav-link.active
+            border-bottom: 3px solid #0784ea

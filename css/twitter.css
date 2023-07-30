@@ -1,0 +1,143 @@
+.bg-tw1 {
+  background-color: #00acee;
+}
+
+.text-tw1 {
+  color: #00acee;
+}
+
+.bg-tw2 {
+  background-color: #1a8dc2;
+}
+
+.text-tw2 {
+  color: #1a8dc2;
+}
+
+.bg-tw3 {
+  background-color: #206f98;
+}
+
+.text-tw3 {
+  color: #206f98;
+}
+
+.bg-tw4 {
+  background-color: #205370;
+}
+
+.text-tw4 {
+  color: #205370;
+}
+
+.bg-tw5 {
+  background-color: #16202c;
+}
+
+.text-tw5 {
+  color: #16202c;
+}
+
+.bg-tw6 {
+  background-color: #243447;
+}
+
+.text-tw6 {
+  color: #243447;
+}
+
+.bg-tw7 {
+  background-color: #141f27;
+}
+
+.text-tw7 {
+  color: #141f27;
+}
+
+.bg-tw8 {
+  background-color: #000000;
+}
+
+.text-tw8 {
+  color: #000000;
+}
+
+.bg-tw9 {
+  background-color: #fcfcfc;
+}
+
+.text-tw9 {
+  color: #fcfcfc;
+}
+
+.h25px {
+  height: 25px;
+}
+
+.w25px {
+  width: 25px;
+}
+
+.h30px {
+  height: 30px;
+}
+
+.w30px {
+  width: 30px;
+}
+
+.h40px {
+  height: 40px;
+}
+
+.w40px {
+  width: 40px;
+}
+
+.h45px {
+  height: 45px;
+}
+
+.w45px {
+  width: 45px;
+}
+
+.h50px {
+  height: 50px;
+}
+
+.w50px {
+  width: 50px;
+}
+
+.h100px {
+  height: 100px;
+}
+
+.w100px {
+  width: 100px;
+}
+
+.h200px {
+  height: 200px;
+}
+
+.h300px {
+  height: 300px;
+}
+
+.w400px {
+  width: 400px;
+}
+
+.w500px {
+  width: 500px;
+}
+
+body {
+  background-color: #000000;
+}
+
+aside nav .nav-link.active {
+  border-bottom: 3px solid #0784ea;
+}/*# sourceMappingURL=twitter.css.map */
